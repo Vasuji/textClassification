@@ -13,7 +13,7 @@ This repository includes text classification works which involves following step
 
 
 ### Step I: Getting and Cleaning Data
-In this step data has been downloaded and cleaned. A new data frame has been created and saved as new data file. Final data file has 3117 rows. There are 5 different classes in the data file.
+In this step data has been downloaded and cleaned. A new data frame has been created and saved as new data file. Final data file has 3117 rows. There are 5 different classes in the data file. [File](https://github.com/Vasuji/text_classification/blob/master/1.Getting_and_cleaning.ipynb)
 
 
 ### Step I: Exploratory Data Analysis
