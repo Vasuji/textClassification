@@ -19,19 +19,18 @@ In this step data has been downloaded and cleaned. A new data frame has been cre
 ### Step I: Exploratory Data Analysis
 In this step some exploratory data analysis has been done. Few examples are
 1. Plot of class frequencies
-![alt text][image1]
 2. Plot of  frequencies of words in each class
-![alt text][image2]
 3. Net word frequencies plot
-![alt text][image3]
-4. Plot of Word cloud
-![alt text][image4]
 
 
-| Left          | Center        | Right  |
+
+
+| Class frequencies         | Word per class        | net word freq  |
 | ------------- |:-------------:| ------|
 |![Left][image1] | ![Center][image2] | ![Right][image3]
 
+4. Plot of Word cloud
+![alt text][image4]
 
 ### Step I: Model Selection and Tuning
 This is them main body of the project it includes three files:
