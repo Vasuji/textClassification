@@ -25,7 +25,7 @@ In this step some exploratory data analysis has been done. Few examples are
 
 
 
-| Class frequencies         | Word per class        | net word freq  |
+| Class frequencies         | net word freq     | Word per class     |
 | ------------- |:-------------:| ------|
 |![Left][image1] | ![Center][image2] | ![Right][image3]
 
