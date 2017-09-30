@@ -21,7 +21,7 @@ In this step some exploratory data analysis has been done. Few examples are
 1. Plot of class frequencies
 2. Plot of  frequencies of words in each class
 3. Net word frequencies plot
-
+4. Plot of Word cloud
 
 
 
@@ -29,8 +29,8 @@ In this step some exploratory data analysis has been done. Few examples are
 | ------------- |:-------------:|:-------------:| ------|
 |![Left][image1] | ![Center][image2] | ![Right][image3]| ![Right][image4]
 
-4. Plot of Word cloud
-![alt text][image4]
+
+
 
 ### Step I: Model Selection and Tuning
 This is them main body of the project it includes three files:
