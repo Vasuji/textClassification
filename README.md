@@ -15,7 +15,11 @@ In this step some exploratory data analysis has been done. Few examples are
 4. Plot of Word cloud
 
 ### Step I: Model Selection and Tuning
+This is them main body of the project it includes three files:
+1. Model build with Bag of Words. 
+2. Model Build with TFIDF
+3. Model Build with Word to vec
+
+### Discussion
 
 
-
-Text Classification
