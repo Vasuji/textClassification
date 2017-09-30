@@ -35,18 +35,18 @@ In this step some exploratory data analysis has been done. Few examples are
 
 
 ## Step III: Model Selection and Tuning
-This is them main body of the project it includes three files:
+This is the main body of the project. It includes three different model building files:
 
 ### 1. Model built with Bag of Words. 
-
+This python notebook walks through the model evaluation using bag of words representation of text data and picks a best model for further parameter tuining.
 [Python notebook: Bag of Words models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.1.BagOfWords.ipynb)
 
 ### 2. Model built with TFIDF
-
+This python notebook walks through the model evaluation using TF-IDF representation of text data and picks a best model for further parameter tuining.
 [Python notebook: TF-IDF Models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.2.TF-IDF.ipynb)
 
 ### 3. Model built with Word to vec
-
+This python notebook walks through the model evaluation using 'word to vec' representation of text data and and specially train a RNN model.
 [Python notebook: Word to Vec Models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.3.Word2Vec.ipynb)
 
 
