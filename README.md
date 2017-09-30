@@ -2,9 +2,9 @@
 [//]: # (Image References)
 
 [image1]: ./pic/1.png
-[image11]: ./pic/2.png 
-[image2]: ./pic/3.png 
-[image3]: ./pic/4.png 
+[image2]: ./pic/2.png 
+[image3]: ./pic/3.png 
+[image4]: ./pic/4.png 
 
 
 # Text Classification
