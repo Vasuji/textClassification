@@ -50,6 +50,7 @@ This python notebook walks through the model evaluation using 'word to vec' repr
 [Python notebook: Word to Vec Models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.3.Word2Vec.ipynb)
 
 
-## Discussion
+## Discussion:
+So far 84-86 % accuracy has been obtained. Typically ```XGBoostClassifier```, ```LogisticRegression``` and ```RNN``` with word to vec embedding are performing better then other classifiers.
 
 
