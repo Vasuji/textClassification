@@ -1,4 +1,4 @@
-# text_classification
+# Text Classification
 
 This repository includes text classification works which involves following steps:
 
