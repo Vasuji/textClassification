@@ -28,6 +28,11 @@ In this step some exploratory data analysis has been done. Few examples are
 ![alt text][image4]
 
 
+| Left          | Center        | Right  |
+| ------------- |:-------------:| ------|
+|![Left][image1] | ![Center][image2] | ![Right][image3]
+
+
 ### Step I: Model Selection and Tuning
 This is them main body of the project it includes three files:
 1. Model build with Bag of Words. 
