@@ -18,7 +18,7 @@ In this step data has been downloaded and cleaned. A new data frame has been cre
 [Python notebook: Getting and Cleaning Data](https://github.com/Vasuji/text_classification/blob/master/1.Getting_and_cleaning.ipynb)
 
 
-## Step I: Exploratory Data Analysis
+## Step II: Exploratory Data Analysis
 In this step some exploratory data analysis has been done. Few examples are
 1. Plot of class frequencies
 2. Net word frequencies plot
@@ -34,7 +34,7 @@ In this step some exploratory data analysis has been done. Few examples are
 [Python notebook:Exploratory Data Analysis](https://github.com/Vasuji/text_classification/blob/master/2.Exploratory_data_analysis.ipynb)
 
 
-## Step I: Model Selection and Tuning
+## Step III: Model Selection and Tuning
 This is them main body of the project it includes three files:
 
 ### 1. Model built with Bag of Words. 
