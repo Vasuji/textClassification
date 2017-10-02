@@ -1,3 +1,6 @@
+from collections import Counter
+
+
 def create_lookup_tables(text):
     """
     Create lookup tables for vocabulary
@@ -50,6 +53,7 @@ def preprocess(text):
     text = text.replace(')', ' <RIGHT_PAREN> ')
     text = text.replace('--', ' <HYPHENS> ')
     text = text.replace('?', ' <QUESTION_MARK> ')
+    
     
     # text = text.replace('\n', ' <NEW_LINE> ')
     text = text.replace(':', ' <COLON> ')
