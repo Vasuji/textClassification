@@ -51,6 +51,6 @@ This python notebook walks through the model evaluation using 'word to vec' repr
 
 
 ## Discussion:
-So far 84-86 % accuracy has been obtained. Typically ```XGBoostClassifier```, ```LogisticRegression``` and ```RNN``` with word to vec embedding are performing better then other classifiers.
+So far 85-87 % accuracy has been obtained. Typically ```XGBoostClassifier```, ```LogisticRegression``` and ```RNN``` with word to vec embedding are performing better then other classifiers.
 
 
