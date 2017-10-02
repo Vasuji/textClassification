@@ -39,15 +39,15 @@ This is the main body of the project. It includes three different model building
 
 ### 1. Model built with Bag of Words. 
 This python notebook walks through the model evaluation using bag of words representation of text data and picks a best model for further parameter tuining.
-[Python notebook: Bag of Words models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.1.BagOfWords.ipynb)
+[Python notebook: Bag of Words models](https://github.com/Vasuji/text_classification/blob/master/3.1.model-BagOfWords.ipynb)
 
 ### 2. Model built with TFIDF
 This python notebook walks through the model evaluation using TF-IDF representation of text data and picks a best model for further parameter tuining.
-[Python notebook: TF-IDF Models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.2.TF-IDF.ipynb)
+[Python notebook: TF-IDF Models](https://github.com/Vasuji/text_classification/blob/master/3.2.model-TF-IDF.ipynb)
 
 ### 3. Model built with Word to vec
 This python notebook walks through the model evaluation using 'word to vec' representation of text data and and specially train a RNN model.
-[Python notebook: Word to Vec Models](https://github.com/Vasuji/text_classification/blob/master/3.models/4.3.Word2Vec.ipynb)
+[Python notebook: Word to Vec Models](https://github.com/Vasuji/text_classification/blob/master/3.3.model-Word2Vec.ipynb)
 
 
 ## Discussion:
